@@ -11,6 +11,6 @@ Always try to prevent these types of attacks by not changing/deleting your usern
 
 **Check Out more about [Repo Jacking](https://blog.securityinnovation.com/repo-jacking-exploiting-the-dependency-supply-chain)**
 
-cc: [@ikrishararwal](@ikrishagarwal)
+cc: [@ikrishararwal](https://github.com/ikrishagarwal)
 
-From:  [@arnav-kr](@arnav-kr)
+From:  [@arnav-kr](https://github.com/arnav-kr)
